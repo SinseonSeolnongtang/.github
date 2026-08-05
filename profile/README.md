@@ -16,6 +16,8 @@
 
 </div>
 
+<img width="1587" height="2245" alt="Findish 판넬" src="https://github.com/user-attachments/assets/6bc0b181-08c4-4766-b50b-40e805c349e0" />
+
 ---
 
 ## 📌 Overview
